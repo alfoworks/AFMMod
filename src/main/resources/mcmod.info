@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "AFMMod",
+    "name": "AFMMod",
+    "description": "Decorations!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Iterator",
+      "ov3rwrite"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
