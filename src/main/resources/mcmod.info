@@ -1,6 +1,6 @@
 [
   {
-    "modid": "AFMMod",
+    "modid": "afmm",
     "name": "AFMMod",
     "description": "Decorations!",
     "version": "${version}",
